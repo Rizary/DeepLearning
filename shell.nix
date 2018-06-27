@@ -16,6 +16,7 @@ let
        gensim
        scrapy
        termcolor
+       Keras
        ]));
   
 in pkgs.stdenv.mkDerivation rec {
