@@ -17,6 +17,7 @@ let
        scrapy
        termcolor
        Keras
+       punkt
        ]));
   
 in pkgs.stdenv.mkDerivation rec {
